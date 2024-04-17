@@ -1,6 +1,14 @@
 # first-node-application
 My first node application 
 
+# About GitHub Authentication
+https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-authentication-to-github
+
+
+# Git Command Cheat Sheet
+## The most comman use of GIT Commands are SETUP & INIT, BRANCH & MERGE, SHARE & UPDATE
+https://education.github.com/git-cheat-sheet-education.pdf
+
 
 # Step by step guide of creating an image until deployed to AWS ECR
 1. Retrieve an authentication token and authenticate your Docker client to your registy
